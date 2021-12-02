@@ -1,7 +1,12 @@
-// Név: Lehoczki Patrícia
-// Dátum: 2021.12.02.
-// Osztály: Szoft II/N
-
+/*
+* File: app.ts
+* Author: Lehoczki Patrícia
+* Copyright: 2021, Lehoczki Patrícia
+* Group: Szoft II/N
+* Date: 2021-12-02
+* Github: https://github.com/lehoczkipatricia
+* Licenc: GNU GPL
+*/
 var url = './cars.json';
 
 class Car{
